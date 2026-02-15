@@ -31,19 +31,19 @@ A basic learning project built using Flask, demonstrating user authentication, p
 ## 📸 Screenshots
 
 ### Home Page
-![Home](screenshots/home.jpg)
+![Home](screenshots/home.jpeg)
 
 ### Login Page
-![Login](screenshots/login_page.jpg)
+![Login](screenshots/login_page.jpeg)
 
 ### Register Page
-![Register](screenshots/register_page.jpg)
+![Register](screenshots/register_page.jpeg)
 
 ### User Profile
-![Profile](screenshots/user_profile.jpg)
+![Profile](screenshots/user_profile.jpeg)
 
 ### Create Blog Post
-![Create Post](screenshots/create_blog_post.jpg)
+![Create Post](screenshots/create_blog_post.jpeg)
 
 ---
 
